@@ -1,0 +1,6 @@
+{
+    "algorithm" : "aes-256-cbc",
+    "password" : "12345",
+    "type" : "hex",
+    "salt" : "GhAn"
+}
